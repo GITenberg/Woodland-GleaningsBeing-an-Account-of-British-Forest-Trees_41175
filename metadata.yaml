@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41021'
     url: http://www.gutenberg.org/2009/agents/41021
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41175#Woodland-GleaningsBeing-an-Account-of-British-Forest-Trees
 gutenberg_issued: '2012-10-25'
 gutenberg_type: Text
 identifiers:
