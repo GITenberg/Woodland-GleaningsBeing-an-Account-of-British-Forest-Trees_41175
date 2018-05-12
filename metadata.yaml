@@ -1,0 +1,28 @@
+_repo: Woodland-GleaningsBeing-an-Account-of-British-Forest-Trees_41175
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41175-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tyas, Robert
+    alias: Tyas, R. (Robert)
+    birthdate: 1811
+    deathdate: 1879
+    gutenberg_agent_id: '41021'
+    url: http://www.gutenberg.org/2009/agents/41021
+description: ''
+gutenberg_issued: '2012-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trees -- Great Britain -- Identification'
+- !lcsh 'Forests and forestry -- Great Britain'
+- !lcc 'QK'
+title: 'Woodland Gleanings: Being an Account of British Forest-Trees'
+url: http://www.gutenberg.org/ebooks/41175
